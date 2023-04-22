@@ -1,3 +1,9 @@
+When the user clicks "Sign up", checks if the password & confirmation match each other. If so, log "Successfully signed up" to the console. If not, log "passwords to not match" to the console.
+
+Also when submitting the form, if the person checked the "newsletter" checkbox, log "Thanks for signing for our newsletter!" to the console.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,6 +78,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-When the user clicks "Sign up", checks if the password & confirmation match each other. If so, log "Successfully signed up" to the console. If not, log "passwords to not match" to the console.
-
-Also when submitting the form, if the person checked the "newsletter" checkbox, log "Thanks for signing for our newsletter!" to the console.
