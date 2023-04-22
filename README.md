@@ -1,6 +1,6 @@
-When the user clicks "Sign up", checks if the password & confirmation match each other. If so, log "Successfully signed up" to the console. If not, log "passwords to not match" to the console.
+When the user clicks "Sign up", checks if the password & confirmation match each other. If so, logs "Successfully signed up" to the console. If not, logs "passwords to not match" to the console.
 
-Also when submitting the form, if the person checked the "newsletter" checkbox, log "Thanks for signing for our newsletter!" to the console.
+Also when submitting the form, if the person checked the "newsletter" checkbox, logs "Thanks for signing for our newsletter!" to the console.
 
 
 
